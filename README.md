@@ -3,4 +3,3 @@ The objective is to asses the effectiveness of DenseNet in classifying disease b
 The data is taken from Kaggle and we conduct the programming using Python in Google Colab with modified DenseNet169 architecture (taken from: Huang, “Densely Connected Convolutional Networks”, CVPR, 2017 [Online]. Available: https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf).
 
 	
-Here is the paper I made for the project:  [Amalia_Project I (Updated).pdf](https://github.com/user-attachments/files/16838462/Amalia_Project.I.Updated.pdf)
